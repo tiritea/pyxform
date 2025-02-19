@@ -3,6 +3,7 @@ JR_PREFIXES = {
     "image": "jr://images/",
     "big-image": "jr://images/",
     "video": "jr://video/",
+    "image-description": "",
 }
 
 
