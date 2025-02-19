@@ -166,5 +166,5 @@ NSMAP = {
     "xmlns:orx": "http://openrosa.org/xforms",
     "xmlns:odk": "http://www.opendatakit.org/xforms",
 }
-SUPPORTED_MEDIA_TYPES = {"image", "big-image", "audio", "video", "image-description"}
+SUPPORTED_MEDIA_TYPES = {"image", "big-image", "audio", "video"}
 OR_OTHER_CHOICE = {NAME: "other", LABEL: "Other"}
