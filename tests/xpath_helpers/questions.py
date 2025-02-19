@@ -54,6 +54,7 @@ class XPathHelper:
             "image": ("label", "jr://images/"),
             "big-image": ("label", "jr://images/"),
             "video": ("label", "jr://video/"),
+            "image-description": ("label", ""),
             "guidance": ("hint", ""),
         }
         return f"""
